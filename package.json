@@ -1,5 +1,5 @@
 {
-  "name": "xf-system01",
+  "name": "xf-system-vue2",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@wangeditor/editor": "^5.0.0",
+    "@wangeditor/editor-for-vue": "^1.0.0",
+    "axios": "^0.26.1",
+    "blueimp-md5": "*",
     "core-js": "^3.8.3",
+    "echarts": "^5.3.2",
+    "element-ui": "^2.15.8",
+    "md5": "^2.3.0",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
